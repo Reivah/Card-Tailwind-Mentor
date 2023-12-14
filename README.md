@@ -12,6 +12,5 @@ This repository contains my solution to the Frontend Mentor challenge for creati
 
 - User-Friendly Interface: Tailwind's utility classes create an intuitive layout for enhanced user experience.
 ## Demo
-
-https://reivah.github.io/Card-Tailwind-Mentor/
+https://reivah.github.io/Time-Tracking-Dashboard-TailwindCSS/
 
